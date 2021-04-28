@@ -14,9 +14,9 @@ led = LED(17)
 button = Button(16)
 
 #replace the next three lines with your credentials
-from_email_addr = 'IS4750.Asem@gmail.com'
-from_email_password = 'qwer54321'
-to_email_addr = 'a.3md77@gmail.com'
+from_email_addr = 'Sender Email'
+from_email_password = ' Sender Email Password'
+to_email_addr = 'Reciever Email'
 
 #Create Alarm State by default it is off.
 Alarm_state = False
