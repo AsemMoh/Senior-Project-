@@ -15,7 +15,7 @@ button = Button(16)
 
 #replace the next three lines with your credentials
 from_email_addr = 'Sender Email'
-from_email_password = ' Sender Email Password'
+from_email_password = 'Sender Email Password'
 to_email_addr = 'Reciever Email'
 
 #Create Alarm State by default it is off.
